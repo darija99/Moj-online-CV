@@ -1,0 +1,56 @@
+.header {
+    background-color:rgb(203, 219, 193);
+    padding: 10px;
+    text-align: center;
+    }
+
+   
+.image {
+    padding: 60px;
+   
+}
+    
+.cont1{
+    position: absolute;
+    top:139px;
+    left: 650px;
+    width: 45%;
+    height: 300px;
+    margin-right: 25px;
+    float: none;
+}
+
+.cont2{
+    width: 40%;
+    height: 300px;
+  top:45px;
+    margin-left: 25px;
+    float: left;
+   
+    padding-left: 20px;
+    position: relative;
+}
+
+.body{
+    overflow: hidden;
+    background-color: rgba(210, 240, 193, 0.898);
+}
+
+.part {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    text-align: center;
+    
+    
+}
+
+
+.footer{
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color:rgb(203, 219, 193);
+        text-align: center;
+}
